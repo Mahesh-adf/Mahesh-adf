@@ -1,0 +1,9 @@
+{
+	"name": "MaheshTestEnv",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1e1523ed-a3e5-4f7c-9805-245543c49d57",
+		"tenantId": "2f66eaa0-169f-482f-a964-075981f04a39"
+	}
+}
